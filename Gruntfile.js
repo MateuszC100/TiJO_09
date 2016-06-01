@@ -32,6 +32,7 @@
                         },
                         text: {
                             dir: 'target/mutation-test'
+
                         }
                     }
                 },
@@ -50,7 +51,7 @@
                         logLevel: 'DEBUG',
                         reporters: {
                             text: {
-                                file: 'karma.txt'
+                                file: 'raport2.txt'
                             }
                         }
                     }
